@@ -1,6 +1,6 @@
 # hephaestus
 
-Código do Hefesto (Hephaestus) usado no meu mestrado
+Código do Hefesto (Hephaestus) usado no meu mestrado.
 
 Este código foi feito por Gabriel Rodrigues Caldas de Aquino para o seu mestrado.
 
